@@ -11,8 +11,10 @@ AEC（Acoustic Echo Cancellation，声学回声消除）：AEC是一种数字信
 ## AEC-Challenge
 ### 2021
 ### 2022
-### 2023
+### 2023 
 
+## 经典文献
+- Zhang, Hao, and D. Wang. "Deep learning for acoustic echo cancellation in noisy and double-talk scenarios." Training 161.2 (2018): 322.
 ## 参考链接
 - 声学回声消除(Acoustic Echo Cancellation)原理与实现 https://www.cnblogs.com/LXP-Never/p/11703440.html
 - 
